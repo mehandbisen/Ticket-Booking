@@ -57,11 +57,11 @@ Others: Django Sessions, Custom Admin Panel (no Django Admin)
 
 ### **Screenshots**
 
-![Screenshot 2025-04-24 225520](https://github.com/user-attachments/assets/57bf08ad-451d-4dc6-8b69-06f24af62aad)
-![Screenshot 2025-04-24 225602](https://github.com/user-attachments/assets/5a52346f-eba8-40da-9087-7778187c4f5e)
-![Screenshot 2025-04-24 225746](https://github.com/user-attachments/assets/507e8080-deb0-4ac2-a9e8-ad26db0bd791)
-![Screenshot 2025-04-24 225832](https://github.com/user-attachments/assets/70766678-cddb-42c5-a42f-db9f7cb4405c)
-![Screenshot 2025-04-24 225859](https://github.com/user-attachments/assets/bb66b788-6e28-42b1-be7a-07667fd74723)
+![Screenshot 2025-04-24 225520](https://github.com/user-attachments/assets/a1c8d1b5-a81d-4b0c-a0aa-a3c6281345ae)
+![Screenshot 2025-04-24 225602](https://github.com/user-attachments/assets/66771400-b3cf-45e0-b0d9-7f2c2091abe9)
+![Screenshot 2025-04-24 225746](https://github.com/user-attachments/assets/2aa9edb8-7925-4be7-b486-19738ecb488a)
+![Screenshot 2025-04-24 225832](https://github.com/user-attachments/assets/b9b7f7d2-a1bb-4f8c-8554-4436969233b4)
+![Screenshot 2025-04-24 225859](https://github.com/user-attachments/assets/dc874a71-b682-4cce-aff2-004b00dd237b)
 
 ###  **Docker and Jenkins Notes**
 ** Docker**
