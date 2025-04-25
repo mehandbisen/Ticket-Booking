@@ -18,7 +18,7 @@ This is a web-based Ticket Booking Management System built with Django. Users ca
 
 ### ** Installation**
 
-```bash
+
 # Clone the repository
 git clone https://github.com/your-username/ticket-booking-system.git
 cd ticket-booking-system
