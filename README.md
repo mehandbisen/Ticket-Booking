@@ -20,7 +20,7 @@ This is a web-based Ticket Booking Management System built with Django. Users ca
 
 
 # Clone the repository
-git clone https://github.com/your-username/ticket-booking-system.git
+git clone https://github.com/mehandbisen/Ticket-Booking.git
 cd ticket-booking-system
 
 # Create virtual environment (optional if not using Docker)
