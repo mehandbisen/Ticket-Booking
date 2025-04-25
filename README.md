@@ -14,6 +14,7 @@ This is a web-based Ticket Booking Management System built with Django. Users ca
 - Docker & Docker Compose
 - Git
 
+
 ### ** Installation**
 
 ```bash
